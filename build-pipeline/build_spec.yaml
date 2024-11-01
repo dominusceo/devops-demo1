@@ -25,4 +25,4 @@ steps:
     command: |
       export BUILDRUN_HASH=`echo ${OCI_BUILD_RUN_ID} | rev | cut -c 1-7`
       echo "BUILDRUN_HASH: " $BUILDRUN_HASH
-      echo "Testing Trigger From Github"
+      echo "Testing Trigger From Github integrated with dominusceo personal account"
