@@ -1,2 +1,2 @@
-# devops-demo1
-Demo Devops1
+#External repository devops-demo1
+OCI Devops Service
